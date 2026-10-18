@@ -1,0 +1,40 @@
+# NPTEL PSOSM Study Portal & Solved Question Bank
+
+> Independent study reference and question bank for the NPTEL/SWAYAM course "Privacy and Security in Online Social Media" (noc26-cs69), taught by Prof. Ponnurangam Kumaraguru (PK), IIIT Delhi / IIT Madras.
+
+- Live Study Platform: https://nptel-psosm.vercel.app
+- Free Sample Practice Demo: https://nptel-psosm.vercel.app/samples
+- 12-Week Syllabus & Outline: https://nptel-psosm.vercel.app/syllabus
+- Exam Study Guide & Formulas: https://nptel-psosm.vercel.app/study-guide
+- Exam FAQs & Grading Pattern: https://nptel-psosm.vercel.app/faq
+- Full Knowledge Base (AEO): https://nptel-psosm.vercel.app/llms-full.txt
+- Pricing & Features: https://nptel-psosm.vercel.app/pricing
+- Contact: nptel.psosm@gmail.com
+
+## Course Details
+- Course Name: Privacy and Security in Online Social Media (PSOSM)
+- Course Code: noc26-cs69
+- Instructor: Prof. Ponnurangam Kumaraguru (PK)
+- Institutions: IIIT Delhi, IIT Madras, SWAYAM / NPTEL
+- Coverage: 2023, 2024, 2025, 2026 assignment questions (512 total)
+
+## Curriculum & Weekly Topics
+- Week 1: Introduction to OSM, Real-world Incidents, Ubuntu, Git, Python, Anonymous Networks (Whisper, Sarahah).
+- Week 2: OSM APIs, Reddit API, Facebook Graph API, Data Collection, Trust & Credibility, JSON.
+- Week 3: Misinformation, Fake News Detection, Flair NLP, Twitter API v2, MongoDB, SQL.
+- Week 4: Privacy & Pictures on OSM, k-Anonymity, l-Diversity, t-Closeness, Linking Attacks, Exif Metadata.
+- Week 5: Policing Online Social Media, Sentiment Analysis, VADER, LIWC (Linguistic Inquiry and Word Count).
+- Week 6: eCrime on OSM, Phishing, Whaling, Spear Phishing, Scams, Social Network Analysis (SNA).
+- Week 7: Link Farming, Sybil Attacks, Spamdexing, Privacy Nudges, NLTK Text Processing.
+- Week 8: Geospatial Privacy, Location-Based Social Networks (LBSN), Check-in Dynamics.
+- Week 9: Spatial Privacy, Highcharts, Foursquare, Mobility Traces.
+- Week 10: Inferring Home Location, Username Change Dynamics, Crisis Informatics, Boston Marathon Misinformation Case Study.
+- Week 11: Course Synthesis, Revision, Exam Pattern Analysis, Privacy Policies.
+
+## Platform Features
+- 512 machine-audited questions with verified NPTEL accepted answers.
+- Conceptual explanations with week-level course mapping.
+- 12 weeks of high-yield revision notes and exam cheat sheets.
+- Graded practice exam mode with real-time server scoring.
+- 360-page printable reference PDF for offline study.
+- Complete mobile-responsive design.
